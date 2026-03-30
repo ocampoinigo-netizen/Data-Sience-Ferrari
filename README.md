@@ -18,10 +18,13 @@ Understanding the factors that drive stock price movements is essential for inve
 ## Key Insights
 The results show that both firm-specific and market-related variables play a significant role in explaining Ferrari’s stock price. In particular, the strong relationship with the S&P 500 highlights the influence of overall market performance, while volatility and momentum provide valuable information about risk and trend dynamics. The model demonstrates a solid ability to capture general price movements, although it struggles with sudden fluctuations. Overall, the findings suggest that combining multiple types of indicators can improve the understanding of stock behavior and support more informed, data-driven decision-making.
 
-![Ferrari Stock Trend](images:price_trend.png)
+![Ferrari Stock Trend](images/price_trend.png)
+
+This is a dashboard showing the trend of the stock and other indicators 
 
 ---
 
-![Model Predictions](images:prediction_vs_actual.png)
+![Model Predictions](images/prediction_vs_actual.png)
 
+This is the prediction that our model made 
 
